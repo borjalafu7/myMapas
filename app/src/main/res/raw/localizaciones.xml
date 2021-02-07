@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localizaciones>
+
+    <localizacion>
+        <titulo>Ferrocarril 1870</titulo>
+        <fragmento>https://ferrocarril1870.com/</fragmento>
+        <etiqueta>bares</etiqueta>
+        <latitud>39.4571814</latitud>
+        <longitud>-0.4612181</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Arrels Alaquàs</titulo>
+        <fragmento>https://www.tripadvisor.es/Restaurant_Review-g1079491-d19114217-Reviews-Arrels_Alaquas-Alacuas_Province_of_Valencia_Valencian_Country.html</fragmento>
+        <etiqueta>bares</etiqueta>
+        <latitud>39.457243</latitud>
+        <longitud>-0.4611506</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Florencia Pizzeria</titulo>
+        <fragmento>https://florenciapizzeria.com/</fragmento>
+        <etiqueta>bares</etiqueta>
+        <latitud>39.4586815</latitud>
+        <longitud>-0.4580379</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>El Corzo</titulo>
+        <fragmento>https://elcorzo.com/</fragmento>
+        <etiqueta>bares</etiqueta>
+        <latitud>39.4563384</latitud>
+        <longitud>-0.4607006</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>El Passatge</titulo>
+        <fragmento>https://elpassatge.com/</fragmento>
+        <etiqueta>bares</etiqueta>
+        <latitud>39.4557148</latitud>
+        <longitud>-0.4609698</longitud>
+    </localizacion>
+
+
+
+    <localizacion>
+        <titulo>Esther Martinez Ropa</titulo>
+        <fragmento>964171290</fragmento>
+        <etiqueta>tiendas</etiqueta>
+        <latitud>39.4554072</latitud>
+        <longitud>-0.4639017</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>LuzcoPeL</titulo>
+        <fragmento>964178965</fragmento>
+        <etiqueta>tiendas</etiqueta>
+        <latitud>39.4558434</latitud>
+        <longitud>-0.4632505</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Tapizados Lujosa</titulo>
+        <fragmento>964578947</fragmento>
+        <etiqueta>tiendas</etiqueta>
+        <latitud>39.453647</latitud>
+        <longitud>-0.4658582</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Resinas Valenciana S.L.</titulo>
+        <fragmento>961277947</fragmento>
+        <etiqueta>tiendas</etiqueta>
+        <latitud>39.4533289</latitud>
+        <longitud>-0.4664473</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Stradivarius España S.A.</titulo>
+        <fragmento>961215712</fragmento>
+        <etiqueta>tiendas</etiqueta>
+        <latitud>39.4555848</latitud>
+        <longitud>-0.4606229</longitud>
+    </localizacion>
+
+</localizaciones>
